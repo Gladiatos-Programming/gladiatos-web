@@ -367,7 +367,7 @@ export default function Home() {
             <a href="https://www.instagram.com/gladiatos.ui/" target="_blank" className="block w-10 h-10">
               <Image className="w-full h-auto" src="/footer/instagram.svg" alt="Instagram" width={50} height={50} />
             </a>
-            <a href="https://www.linkedin.com" target="_blank" className="block w-10 h-10">
+            <a href="https://www.linkedin.com/company/gladiatos/" target="_blank" className="block w-10 h-10">
               <Image className="w-full h-auto" src="/footer/linkedin.svg" alt="LinkedIn" width={50} height={50} />
             </a>
           </div>
